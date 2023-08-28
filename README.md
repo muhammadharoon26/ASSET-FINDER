@@ -1,6 +1,6 @@
 # ASSET FINDER
  $ub domain finder sh script
 # Run Command
- ./assetfinder.sh "<website>"
+ ./assetfinder.sh example.com
 # File Location
- <website>/recon/
+ example.com/recon/
